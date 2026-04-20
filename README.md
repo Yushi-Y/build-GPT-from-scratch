@@ -1,6 +1,6 @@
 # Neural-Networks-Zero-to-Hero
 
-The YouTube course "[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)" by Andrej Karpathy.
+My take of the course "[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)" by Andrej Karpathy.
 
 1. [micrograd](https://github.com/Yushi-Y/Neural-Networks-Zero-to-Hero/blob/main/micrograd.ipynb): Step-by-step spelled-out explanation of backpropagation and training of neural networks.
 2. [makemore-Part1-bigrams](https://github.com/Yushi-Y/Neural-Networks-Zero-to-Hero/blob/main/makemore_part1_bigrams.ipynb): Implement a simple network for bigram character-level language modeling.
